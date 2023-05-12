@@ -1,3 +1,8 @@
+Hosting Link : https://akash-calculator-reactapp.netlify.app/
+
+
+![Screenshot (17)](https://github.com/itsAkash1285/calculator-react_app/assets/111186744/cd798d02-e78f-49c4-b294-506ef88773b2)
+![Screenshot (18)](https://github.com/itsAkash1285/calculator-react_app/assets/111186744/3cdc9b39-1bec-4c13-abf0-e1021a3bc0a5)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
